@@ -1,0 +1,34 @@
+# Processing
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OSX
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Libraries (exclude Processing libraries)
+libraries/
+
+# Other sketches not ready for commit
+handParticlesOBJ/
+mossan/
+mossan_orb/
+silencia/
+sparkle/
