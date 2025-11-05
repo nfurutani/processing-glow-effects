@@ -3,6 +3,7 @@
 *.jar
 *.war
 *.ear
+*.autosave
 
 # Python
 venv/
@@ -27,7 +28,6 @@ Desktop.ini
 libraries/
 
 # Other sketches not ready for commit
-handParticlesOBJ/
 mossan/
 mossan_orb/
 sparkle/
